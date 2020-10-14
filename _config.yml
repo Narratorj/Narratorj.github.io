@@ -1,17 +1,17 @@
 # Site settings
-title: 姬一民的博客
+title: 一民的博客
 SEOTitle: Yimin's blog
-header-img: 
+header-img: img/post-bg-desk.jpg
 email: narratorjym@gmail.com
 description: 吉林大学|电子科技大学电子科学与工程学院，记录个人学习，生活
 keyword: 摸了
 url: "https://narratorj.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+github_repo: "https://github.com/Narratorj/narratorj.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you're going to be!"
+sidebar-about-description: "Victoria Concordia Crescit"
 sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
